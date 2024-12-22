@@ -1,4 +1,4 @@
-To-Do List 📝
+#To-Do List 📝
 
 Overview 🖥️:
 A simple to-do list web application that allows users to add and remove tasks using JavaScript. This app uses basic DOM manipulation, event handling, and event delegation to manage tasks.
@@ -11,7 +11,7 @@ Features ✨
 
 How It Works 🛠️
 Adding a Task:
-When the user clicks the "Add" button, the task entered in the input field is added as a new list item (<li>) inside an unordered list (<ul>).
+When the user clicks the "Add" button, the task entered in the input field is added as a new list item (li) inside an unordered list (ul).
 A "delete" button is also added to each task to allow users to remove them.
 
 Deleting a Task:
